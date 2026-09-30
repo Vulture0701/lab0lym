@@ -13,3 +13,10 @@ int main()
     return 0;
     
 }
+
+int phonetics(){
+    printf("let's learn phonetics! \n");
+
+    printf("chapter 1:IPA\n");
+    return 0;
+}
